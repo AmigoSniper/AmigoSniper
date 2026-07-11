@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amigosniper&label=Profile%20views&color=0e75b6&style=flat" alt="amigosniper" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amigosniper" alt="amigosniper" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amigosniper&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="AmigoSniper Trophies" />
+  </a>
+</p>
 
 - 🔭 I’m currently study on **Polinema (Politeknik Negeri Malang)**
 
